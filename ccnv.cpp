@@ -1,6 +1,6 @@
 #include "ccnv.h"
 #include "ui_ccnv.h"
-
+// comment
 ccnv::ccnv(QWidget *parent) :
    QMainWindow(parent),
    ui(new Ui::ccnv)
