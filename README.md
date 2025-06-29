@@ -1,5 +1,8 @@
+-----------------------------------------------------------
 This software application converts location coordinates 
 between three systems:
+-----------------------------------------------------------
+
 1. WGS-84 Coordinates
 2. Map Pixel Coordinates (Mercator Projection)
 3. Map Tile Coordinates
@@ -7,7 +10,7 @@ between three systems:
 In Mercator Projection, the min/max of
 Latitude is approx  +/-  85.05 degrees
 and of Longitude is +/- 180.00 degrees
------------------------------------------------------------
+
 WGS-84 Coordinates consist of latitude and longitude, 
 and can be either in degree decimal format, 
 or degree-minute decimal format.
@@ -36,7 +39,7 @@ coordinate systems, visit Bing Maps Tile System:
 https://msdn.microsoft.com/en-us/library/bb259689.aspx
 -----------------------------------------------------------
 How to Use Coordinate Converter Tool:
-
+-----------------------------------------------------------
 Enter known coordinates in any one system.
 
 Click the appropriate button at tte bottom to convert
@@ -44,4 +47,3 @@ them into the other two coordinate systems.
 
 For the map tile coordinates, the Zoom level (Z) has to
 be entered as well.
------------------------------------------------------------
